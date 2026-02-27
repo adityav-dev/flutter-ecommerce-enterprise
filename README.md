@@ -441,14 +441,11 @@ This repository is intended for portfolio and architecture demonstration and as 
 Senior Flutter Developer | Cross-Platform Mobile Engineer  
 Helping Startups Build Scalable, Real-Time & High-Performance Apps  
 
-📧 adityaverma15.cs@gmail.com  
-<<<<<<< HEAD
 
 🔗 LinkedIn: [https://www.linkedin.com/in/aditya-verma-122318212/]
 
-=======
 🔗 LinkedIn: [https://www.linkedin.com/in/aditya-verma-122318212/]
->>>>>>> 0c30b03ef5a50c904256600493bf59facc997345
+
 🌍 Available for Freelance & Remote Projects  
 
 ---
