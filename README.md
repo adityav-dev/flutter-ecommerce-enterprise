@@ -442,9 +442,7 @@ Senior Flutter Developer | Cross-Platform Mobile Engineer
 Helping Startups Build Scalable, Real-Time & High-Performance Apps  
 
 
-🔗 LinkedIn: [https://www.linkedin.com/in/aditya-verma-122318212/]
-
-🔗 LinkedIn: [https://www.linkedin.com/in/aditya-verma-122318212/]
+🔗 LinkedIn: [https://www.linkedin.com/in/adityav-dev/]
 
 🌍 Available for Freelance & Remote Projects  
 
