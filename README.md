@@ -438,8 +438,8 @@ This repository is intended for portfolio and architecture demonstration and as 
 ## Contact
 
 **Aditya Verma**  
-Senior Flutter Developer | Cross-Platform Mobile Engineer  
-Helping Startups Build Scalable, Real-Time & High-Performance Apps  
+Flutter Architect & Developer  
+Building Scalable, High-Performance Mobile Apps for Startups  
 
 
 🔗 LinkedIn: [https://www.linkedin.com/in/adityav-dev/]
