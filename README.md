@@ -437,10 +437,8 @@ This repository is intended for portfolio and architecture demonstration and as 
 
 ## 👋 Contact
 
-**Aditya Verma**  
-Flutter Architect & Mobile App Developer  
-Building scalable, high-performance mobile apps for startups 🚀  
-🌍 Based in India | Available for Freelance & Remote Projects  
+**Aditya Verma** – Flutter Developer | Mobile App Developer | Building Scalable Apps & MVPs for Startups  
+Helping startups & companies build **scalable, real-time, high-performance apps** 
 
 🔗 LinkedIn: https://www.linkedin.com/in/adityav-dev/  
 💻 Portfolio: https://www.adityaverma.dev/  
